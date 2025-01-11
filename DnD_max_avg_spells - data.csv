@@ -1,0 +1,141 @@
+Class,Level,Level_of_spell,Spellcasting_slot,Spell_rus,Spell_eng,Saving_throw,Die,Quantity,Min_damage,Avg_damage,Max_damage,web_link_rus
+Бард,1,1,1,Диссонирующий шёпот,Dissonant whispers,Мудрость,d6,3,3,"10,5",18,Диссонирующий шёпот / Заклинания D&D 5 / Player's handbook
+Бард,2,1,1,Диссонирующий шёпот,Dissonant whispers,Мудрость,d6,3,3,"10,5",18,Диссонирующий шёпот / Заклинания D&D 5 / Player's handbook
+Бард,3,1,2,Диссонирующий шёпот,Dissonant whispers,Мудрость,d6,4,4,14,24,Диссонирующий шёпот / Заклинания D&D 5 / Player's handbook
+Бард,4,1,2,Диссонирующий шёпот,Dissonant whispers,Мудрость,d6,4,4,14,24,Диссонирующий шёпот / Заклинания D&D 5 / Player's handbook
+Бард,5,2,3,Дребезги,Shatter,Телосложение,d8,4,4,18,32,Дребезги / Заклинания D&D 5 / Player's handbook
+Бард,6,2,3,Дребезги,Shatter,Телосложение,d8,4,4,18,32,Дребезги / Заклинания D&D 5 / Player's handbook
+Бард,7,4,4,Психическое копье Раулотима,Raulothim's Psychic Lance,Интеллект,d6,7,7,"24,5",42,Психическое копье Раулотима / Заклинания D&D 5 / Fizban's Treasury of Dragons
+Бард,8,4,4,Психическое копье Раулотима,Raulothim's Psychic Lance,Интеллект,d6,7,7,"24,5",42,Психическое копье Раулотима / Заклинания D&D 5 / Fizban's Treasury of Dragons
+Бард,9,4,5,Психическое копье Раулотима,Raulothim's Psychic Lance,Интеллект,d6,8,8,28,48,Психическое копье Раулотима / Заклинания D&D 5 / Fizban's Treasury of Dragons
+Бард,10,4,5,Психическое копье Раулотима,Raulothim's Psychic Lance,Интеллект,d6,8,8,28,48,Психическое копье Раулотима / Заклинания D&D 5 / Fizban's Treasury of Dragons
+Бард,11,2,6,Дребезги,Shatter,Телосложение,d8,7,7,"31,5",56,Дребезги / Заклинания D&D 5 / Player's handbook
+Бард,12,2,6,Дребезги,Shatter,Телосложение,d8,7,7,"31,5",56,Дребезги / Заклинания D&D 5 / Player's handbook
+Бард,13,2,7,Дребезги,Shatter,Телосложение,d8,8,8,36,64,Дребезги / Заклинания D&D 5 / Player's handbook
+Бард,14,2,7,Дребезги,Shatter,Телосложение,d8,8,8,36,64,Дребезги / Заклинания D&D 5 / Player's handbook
+Бард,15,2,8,Дребезги,Shatter,Телосложение,d8,9,9,"40,5",72,Дребезги / Заклинания D&D 5 / Player's handbook
+Бард,16,2,8,Дребезги,Shatter,Телосложение,d8,9,9,"40,5",72,Дребезги / Заклинания D&D 5 / Player's handbook
+Бард,17,9,9,Психический крик,Psychic scream,Интеллект,d6,14,14,49,84,Психический крик / Заклинания D&D 5 / Xanathar's Guide to Everything
+Бард,18,9,9,Психический крик,Psychic scream,Интеллект,d6,14,14,49,84,Психический крик / Заклинания D&D 5 / Xanathar's Guide to Everything
+Бард,19,9,9,Психический крик,Psychic scream,Интеллект,d6,14,14,49,84,Психический крик / Заклинания D&D 5 / Xanathar's Guide to Everything
+Бард,20,9,9,Психический крик,Psychic scream,Интеллект,d6,14,14,49,84,Психический крик / Заклинания D&D 5 / Xanathar's Guide to Everything
+Друид,1,1,1,Ледяной кинжал,Ice knife,Ловкость,"d10, d6","1, 2",1,"12,5",22,"Ледяной кинжал / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Друид,2,1,1,Ледяной кинжал,Ice knife,Ловкость,"d10, d6","1, 2",1,"12,5",22,"Ледяной кинжал / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Друид,3,1,2,Ледяной кинжал,Ice knife,Ловкость,"d10, d6","1, 3",1,16,28,"Ледяной кинжал / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Друид,4,1,2,Ледяной кинжал,Ice knife,Ловкость,"d10, d6","1, 3",1,16,28,"Ледяной кинжал / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Друид,5,1,3,Извержение земли,Erupting earth,Ловкость,d12,3,3,"19,5",36,"Извержение земли / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Друид,6,3,3,Извержение земли,Erupting earth,Ловкость,d12,3,3,"19,5",36,"Извержение земли / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Друид,7,4,4,Усыхание,Blight,Телосложение,d8,8,8,36,64,Усыхание / Заклинания D&D 5 / Player's handbook
+Друид,8,4,4,Усыхание,Blight,Телосложение,d8,8,8,36,64,Усыхание / Заклинания D&D 5 / Player's handbook
+Друид,9,4,5,Усыхание,Blight,Телосложение,d8,9,9,"40,5",72,Усыхание / Заклинания D&D 5 / Player's handbook
+Друид,10,4,5,Усыхание,Blight,Телосложение,d8,9,9,"40,5",72,Усыхание / Заклинания D&D 5 / Player's handbook
+Друид,11,4,6,Усыхание,Blight,Телосложение,d8,10,10,45,80,Усыхание / Заклинания D&D 5 / Player's handbook
+Друид,12,4,6,Усыхание,Blight,Телосложение,d8,10,10,45,80,Усыхание / Заклинания D&D 5 / Player's handbook
+Друид,13,4,7,Усыхание,Blight,Телосложение,d8,11,11,"49,5",88,Усыхание / Заклинания D&D 5 / Player's handbook
+Друид,14,4,7,Усыхание,Blight,Телосложение,d8,11,11,"49,5",88,Усыхание / Заклинания D&D 5 / Player's handbook
+Друид,15,4,8,Усыхание,Blight,Телосложение,d8,12,12,54,96,Усыхание / Заклинания D&D 5 / Player's handbook
+Друид,16,4,8,Усыхание,Blight,Телосложение,d8,12,12,54,96,Усыхание / Заклинания D&D 5 / Player's handbook
+Друид,17,4,9,Усыхание,Blight,Телосложение,d8,13,13,"58,5",104,Усыхание / Заклинания D&D 5 / Player's handbook
+Друид,18,4,9,Усыхание,Blight,Телосложение,d8,13,13,"58,5",104,Усыхание / Заклинания D&D 5 / Player's handbook
+Друид,19,4,9,Усыхание,Blight,Телосложение,d8,13,13,"58,5",104,Усыхание / Заклинания D&D 5 / Player's handbook
+Друид,20,4,9,Усыхание,Blight,Телосложение,d8,13,13,"58,5",104,Усыхание / Заклинания D&D 5 / Player's handbook
+Жрец,1,1,1,Направляющий снаряд,Guiding bolt,,d6,4,4,14,24,Направляющий снаряд / Заклинания D&D 5 / Player's handbook
+Жрец,2,1,1,Направляющий снаряд,Guiding bolt,,d6,4,4,14,24,Направляющий снаряд / Заклинания D&D 5 / Player's handbook
+Жрец,3,1,2,Направляющий снаряд,Guiding bolt,,d6,5,5,"17,5",30,Направляющий снаряд / Заклинания D&D 5 / Player's handbook
+Жрец,4,1,2,Направляющий снаряд,Guiding bolt,,d6,5,5,"17,5",30,Направляющий снаряд / Заклинания D&D 5 / Player's handbook
+Жрец,5,1,3,Направляющий снаряд,Guiding bolt,,d6,6,6,21,36,Направляющий снаряд / Заклинания D&D 5 / Player's handbook
+Жрец,6,1,3,Направляющий снаряд,Guiding bolt,,d6,6,6,21,36,Направляющий снаряд / Заклинания D&D 5 / Player's handbook
+Жрец,7,1,4,Направляющий снаряд,Guiding bolt,,d6,7,7,"24,5",42,Направляющий снаряд / Заклинания D&D 5 / Player's handbook
+Жрец,8,1,4,Направляющий снаряд,Guiding bolt,,d6,7,7,"24,5",42,Направляющий снаряд / Заклинания D&D 5 / Player's handbook
+Жрец,9,1,5,Направляющий снаряд,Guiding bolt,,d6,8,8,28,48,Направляющий снаряд / Заклинания D&D 5 / Player's handbook
+Жрец,10,1,5,Направляющий снаряд,Guiding bolt,,d6,8,8,28,48,Направляющий снаряд / Заклинания D&D 5 / Player's handbook
+Жрец,11,1,6,Направляющий снаряд,Guiding bolt,,d6,9,9,"31,5",54,Направляющий снаряд / Заклинания D&D 5 / Player's handbook
+Жрец,12,1,6,Направляющий снаряд,Guiding bolt,,d6,9,9,"31,5",54,Направляющий снаряд / Заклинания D&D 5 / Player's handbook
+Жрец,13,7,7,Огненная буря,Fire storm,Ловкость,d10,7,7,"38,5",70,Огненная буря / Заклинания D&D 5 / Player's handbook
+Жрец,14,7,7,Огненная буря,Fire storm,Ловкость,d10,7,7,"38,5",70,Огненная буря / Заклинания D&D 5 / Player's handbook
+Жрец,15,8,8,Солнечный ожог,Sunburst,Телосложение,d6,12,12,42,72,Солнечный ожог / Заклинания D&D 5 / Player's handbook
+Жрец,16,8,8,Солнечный ожог,Sunburst,Телосложение,d6,12,12,42,72,Солнечный ожог / Заклинания D&D 5 / Player's handbook
+Жрец,17,9,9,Направляющий снаряд,Guiding bolt,,d6,12,12,42,72,Направляющий снаряд / Заклинания D&D 5 / Player's handbook
+Жрец,18,9,9,Направляющий снаряд,Guiding bolt,,d6,12,12,42,72,Направляющий снаряд / Заклинания D&D 5 / Player's handbook
+Жрец,19,9,9,Направляющий снаряд,Guiding bolt,,d6,12,12,42,72,Направляющий снаряд / Заклинания D&D 5 / Player's handbook
+Жрец,20,9,9,Направляющий снаряд,Guiding bolt,,d6,12,12,42,72,Направляющий снаряд / Заклинания D&D 5 / Player's handbook
+Колдун,1,1,1,Адское возмездие,Hellish rebuke,,d10,2,2,11,20,Адское возмездие / Заклинания D&D 5 / Player's handbook
+Колдун,2,1,1,Адское возмездие,Hellish rebuke,,d10,2,2,11,20,Адское возмездие / Заклинания D&D 5 / Player's handbook
+Колдун,3,1,2,Дребезги,Shatter,Телосложение,d8,3,3,"13,5",24,Дребезги / Заклинания D&D 5 / Player's handbook
+Колдун,4,1,2,Дребезги,Shatter,Телосложение,d8,3,3,"13,5",24,Дребезги / Заклинания D&D 5 / Player's handbook
+Колдун,5,1,3,Дребезги,Shatter,Телосложение,d8,4,4,18,32,Дребезги / Заклинания D&D 5 / Player's handbook
+Колдун,6,1,3,Дребезги,Shatter,Телосложение,d8,4,4,18,32,Дребезги / Заклинания D&D 5 / Player's handbook
+Колдун,7,4,4,Психическое копье Раулотима,Raulothim's Psychic Lance,Интеллект,d6,7,7,"24,5",42,Психическое копье Раулотима / Заклинания D&D 5 / Fizban's Treasury of Dragons
+Колдун,8,4,4,Психическое копье Раулотима,Raulothim's Psychic Lance,Интеллект,d6,7,7,"24,5",42,Психическое копье Раулотима / Заклинания D&D 5 / Fizban's Treasury of Dragons
+Колдун,9,5,5,Поток негативной энергии,Negative energy flood,Телосложение,d12,5,5,"32,5",60,Поток негативной энергии / Заклинания D&D 5 / Xanathar's Guide to Everything
+Колдун,10,5,5,Поток негативной энергии,Negative energy flood,Телосложение,d12,5,5,"32,5",60,Поток негативной энергии / Заклинания D&D 5 / Xanathar's Guide to Everything
+Колдун,11,5,5,Поток негативной энергии,Negative energy flood,Телосложение,d12,5,5,"32,5",60,Поток негативной энергии / Заклинания D&D 5 / Xanathar's Guide to Everything
+Колдун,12,5,5,Поток негативной энергии,Negative energy flood,Телосложение,d12,5,5,"32,5",60,Поток негативной энергии / Заклинания D&D 5 / Xanathar's Guide to Everything
+Колдун,13,7,7,Перст смерти,Finger of death,Телосложение,d8,7,37,"61,5",86,Перст смерти / Заклинания D&D 5 / Player's handbook
+Колдун,14,7,7,Перст смерти,Finger of death,Телосложение,d8,7,37,"61,5",86,Перст смерти / Заклинания D&D 5 / Player's handbook
+Колдун,15,7,7,Перст смерти,Finger of death,Телосложение,d8,7,37,"61,5",86,Перст смерти / Заклинания D&D 5 / Player's handbook
+Колдун,16,7,7,Перст смерти,Finger of death,Телосложение,d8,7,37,"61,5",86,Перст смерти / Заклинания D&D 5 / Player's handbook
+Колдун,17,9,9,Клинок разрушения,Blade of Disaster,,d12,4,4,104,576,Клинок разрушения / Заклинания D&D 5 / Tasha's Cauldron of Everything
+Колдун,18,9,9,Клинок разрушения,Blade of Disaster,,d12,4,4,104,576,Клинок разрушения / Заклинания D&D 5 / Tasha's Cauldron of Everything
+Колдун,19,9,9,Клинок разрушения,Blade of Disaster,,d12,4,4,104,576,Клинок разрушения / Заклинания D&D 5 / Tasha's Cauldron of Everything
+Колдун,20,9,9,Клинок разрушения,Blade of Disaster,,d12,4,4,104,576,Клинок разрушения / Заклинания D&D 5 / Tasha's Cauldron of Everything
+Чародей,1,1,1,Катапульта,Catapult,Ловкость,d8,3,3,"13,5",24,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Чародей,2,1,1,Катапульта,Catapult,Ловкость,d8,3,3,"13,5",24,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Чародей,3,1,2,Катапульта,Catapult,Ловкость,d8,4,4,18,32,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Чародей,4,1,2,Катапульта,Catapult,Ловкость,d8,4,4,18,32,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Чародей,5,3,3,Молния,Lightning bolt,Ловкость,d6,8,8,28,48,Молния / Заклинания D&D 5 / Player's handbook
+Чародей,6,3,3,Молния,Lightning bolt,Ловкость,d6,8,8,28,48,Молния / Заклинания D&D 5 / Player's handbook
+Чародей,7,4,4,Едкий шар,Vitriolic sphere,Ловкость,d4,15,15,"37,5",60,"Едкий шар / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Чародей,8,4,4,Едкий шар,Vitriolic sphere,Ловкость,d4,15,15,"37,5",60,"Едкий шар / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Чародей,9,4,5,Едкий шар,Vitriolic sphere,Ловкость,d4,17,17,"42,5",68,"Едкий шар / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Чародей,10,4,5,Едкий шар,Vitriolic sphere,Ловкость,d4,17,17,"42,5",68,"Едкий шар / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Чародей,11,6,6,Распад,Disintegrate,Ловкость,d6,10,50,75,100,Распад / Заклинания D&D 5 / Player's handbook
+Чародей,12,6,6,Распад,Disintegrate,Ловкость,d6,10,50,75,100,Распад / Заклинания D&D 5 / Player's handbook
+Чародей,13,6,7,Распад,Disintegrate,Ловкость,d6,13,53,"85,5",118,Распад / Заклинания D&D 5 / Player's handbook
+Чародей,14,6,7,Распад,Disintegrate,Ловкость,d6,13,53,"85,5",118,Распад / Заклинания D&D 5 / Player's handbook
+Чародей,15,6,8,Распад,Disintegrate,Ловкость,d6,16,56,96,136,Распад / Заклинания D&D 5 / Player's handbook
+Чародей,16,6,8,Распад,Disintegrate,Ловкость,d6,16,56,96,136,Распад / Заклинания D&D 5 / Player's handbook
+Чародей,17,9,9,Метеоритный дождь,Meteor swarm,Ловкость,d6,40,40,140,240,Метеоритный дождь / Заклинания D&D 5 / Player's handbook
+Чародей,18,9,9,Метеоритный дождь,Meteor swarm,Ловкость,d6,40,40,140,240,Метеоритный дождь / Заклинания D&D 5 / Player's handbook
+Чародей,19,9,9,Метеоритный дождь,Meteor swarm,Ловкость,d6,40,40,140,240,Метеоритный дождь / Заклинания D&D 5 / Player's handbook
+Чародей,20,9,9,Метеоритный дождь,Meteor swarm,Ловкость,d6,40,40,140,240,Метеоритный дождь / Заклинания D&D 5 / Player's handbook
+Волшебник,1,1,1,Катапульта,Catapult,Ловкость,d8,3,3,"13,5",24,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Волшебник,2,1,1,Катапульта,Catapult,Ловкость,d8,3,3,"13,5",24,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Волшебник,3,1,2,Катапульта,Catapult,Ловкость,d8,4,4,18,32,"Пекло Аганаззара / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Волшебник,4,1,2,Катапульта,Catapult,Ловкость,d8,4,4,18,32,"Пекло Аганаззара / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Волшебник,5,3,3,Молния,Lightning bolt,Ловкость,d6,8,8,28,48,Молния / Заклинания D&D 5 / Player's handbook
+Волшебник,6,3,3,Молния,Lightning bolt,Ловкость,d6,8,8,28,48,Молния / Заклинания D&D 5 / Player's handbook
+Волшебник,7,4,4,Едкий шар,Vitriolic sphere,Ловкость,d4,15,15,"37,5",60,"Едкий шар / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Волшебник,8,4,4,Едкий шар,Vitriolic sphere,Ловкость,d4,15,15,"37,5",60,"Едкий шар / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Волшебник,9,4,5,Едкий шар,Vitriolic sphere,Ловкость,d4,17,17,"42,5",68,"Едкий шар / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Волшебник,10,4,5,Едкий шар,Vitriolic sphere,Ловкость,d4,17,17,"42,5",68,"Едкий шар / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Волшебник,11,6,6,Распад,Disintegrate,Ловкость,d6,10,50,75,100,Распад / Заклинания D&D 5 / Player's handbook
+Волшебник,12,6,6,Распад,Disintegrate,Ловкость,d6,10,50,75,100,Распад / Заклинания D&D 5 / Player's handbook
+Волшебник,13,6,7,Распад,Disintegrate,Ловкость,d6,13,53,"85,5",118,Распад / Заклинания D&D 5 / Player's handbook
+Волшебник,14,6,7,Распад,Disintegrate,Ловкость,d6,13,53,"85,5",118,Распад / Заклинания D&D 5 / Player's handbook
+Волшебник,15,6,8,Распад,Disintegrate,Ловкость,d6,16,56,96,136,Распад / Заклинания D&D 5 / Player's handbook
+Волшебник,16,6,8,Распад,Disintegrate,Ловкость,d6,16,56,96,136,Распад / Заклинания D&D 5 / Player's handbook
+Волшебник,17,9,9,Метеоритный дождь,Meteor swarm,Ловкость,d6,40,40,140,240,Метеоритный дождь / Заклинания D&D 5 / Player's handbook
+Волшебник,18,9,9,Метеоритный дождь,Meteor swarm,Ловкость,d6,40,40,140,240,Метеоритный дождь / Заклинания D&D 5 / Player's handbook
+Волшебник,19,9,9,Метеоритный дождь,Meteor swarm,Ловкость,d6,40,40,140,240,Метеоритный дождь / Заклинания D&D 5 / Player's handbook
+Волшебник,20,9,9,Метеоритный дождь,Meteor swarm,Ловкость,d6,40,40,140,240,Метеоритный дождь / Заклинания D&D 5 / Player's handbook
+Изобретатель,1,1,1,Катапульта,Catapult,Ловкость,d8,3,3,"13,5",24,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,2,1,1,Катапульта,Catapult,Ловкость,d8,3,3,"13,5",24,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,3,1,2,Катапульта,Catapult,Ловкость,d8,4,4,18,32,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,4,1,2,Катапульта,Catapult,Ловкость,d8,4,4,18,32,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,5,1,3,Катапульта,Catapult,Ловкость,d8,5,5,"22,5",40,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,6,1,3,Катапульта,Catapult,Ловкость,d8,5,5,"22,5",40,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,7,1,4,Катапульта,Catapult,Ловкость,d8,6,6,27,48,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,8,1,4,Катапульта,Catapult,Ловкость,d8,6,6,27,48,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,9,1,5,Катапульта,Catapult,Ловкость,d8,7,7,"31,5",56,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,10,1,5,Катапульта,Catapult,Ловкость,d8,7,7,"31,5",56,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,11,1,6,Катапульта,Catapult,Ловкость,d8,8,8,36,64,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,12,1,6,Катапульта,Catapult,Ловкость,d8,8,8,36,64,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,13,1,7,Катапульта,Catapult,Ловкость,d8,9,9,"40,5",72,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,14,1,7,Катапульта,Catapult,Ловкость,d8,9,9,"40,5",72,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,15,1,8,Катапульта,Catapult,Ловкость,d8,10,10,45,80,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,16,1,8,Катапульта,Catapult,Ловкость,d8,10,10,45,80,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,17,1,9,Катапульта,Catapult,Ловкость,d8,11,11,"49,5",88,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,18,1,9,Катапульта,Catapult,Ловкость,d8,11,11,"49,5",88,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,19,1,9,Катапульта,Catapult,Ловкость,d8,11,11,"49,5",88,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
+Изобретатель,20,1,9,Катапульта,Catapult,Ловкость,d8,11,11,"49,5",88,"Катапульта / Заклинания D&D 5 / Princes of the Apocalypse, Xanathar's Guide to Everything"
