@@ -1,6 +1,6 @@
 # Dungeons & Dragons: Who Has the Bigger Spell?
 
-
+![Dungeons & Dragons: Who Has the Bigger Spell?](https://github.com/ArtChaosData/DnD_max_avg_damage_spells/blob/main/Dungeons%20%26%20Dragons%20Who%20Has%20the%20Bigger%20Spell.jpg)
 
 This project visualizes the spellcasting mechanics of D&D, focusing on pure spellcasters (excluding Paladins and Rangers). The visualization features linear graphs that represent the maximum average spell damage per level, showing which dice are rolled and how many.
 
